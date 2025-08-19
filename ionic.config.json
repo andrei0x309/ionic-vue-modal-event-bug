@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-modal-event-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
